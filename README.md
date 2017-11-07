@@ -2,3 +2,9 @@
 This repository is to gather information and key learning points from the Angular5 course.
 
 ### Day 1
+Typescript playground, see how it compiles to Javascript:
+* https://www.typescriptlang.org/play/index.html  
+
+Angular CLI documentation:
+* https://cli.angular.io
+* https://github.com/angular/angular-cli/wiki
