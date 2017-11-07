@@ -13,3 +13,6 @@ Angular CLI documentation:
 
 Managing state in Angular2 reference:
 * https://youtu.be/eBLTz8QRg4Q
+
+Event emitters in Angular:
+* https://angular.io/guide/component-interaction#parent-listens-for-child-event
