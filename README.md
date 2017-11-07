@@ -1,2 +1,4 @@
-# angular5-learning
-To gather material for learning Angular 5 framework
+# Learning Angular 5
+This repository is to gather information and key learning points from the Angular5 course.
+
+### Day 1
