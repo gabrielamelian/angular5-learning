@@ -8,3 +8,8 @@ Typescript playground, see how it compiles to Javascript:
 Angular CLI documentation:
 * https://cli.angular.io
 * https://github.com/angular/angular-cli/wiki
+
+### Day 2 
+
+Managing state in Angular2 reference:
+* https://youtu.be/eBLTz8QRg4Q
