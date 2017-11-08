@@ -22,3 +22,5 @@ Angular HttpClient:
 
 ReactiveX observables:
 http://reactivex.io/documentation/observable.html
+RxJS:
+http://reactivex.io/rxjs/
