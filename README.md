@@ -24,3 +24,9 @@ ReactiveX observables:
 http://reactivex.io/documentation/observable.html
 RxJS:
 http://reactivex.io/rxjs/
+
+
+#### Extra information and podcasts
+
+* https://angularair.com/
+* https://devchat.tv/adv-in-angular
