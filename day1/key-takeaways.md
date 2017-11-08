@@ -7,3 +7,8 @@
 ## Best practises
 
 * Use a dash ('-') inside the components name to avoid clashes with actual html elements.
+
+#### Extra things to research
+
+ES6 Javascript syntax:
+* http://es6-features.org
