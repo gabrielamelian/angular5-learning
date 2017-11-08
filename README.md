@@ -21,9 +21,18 @@ Angular HttpClient:
 * https://angular.io/guide/http
 
 ReactiveX observables:
-http://reactivex.io/documentation/observable.html
+* http://reactivex.io/documentation/observable.html
 RxJS:
-http://reactivex.io/rxjs/
+* http://reactivex.io/rxjs/
+
+### Day 3
+
+Angular offers different ways to manage forms.
+Template Driven forms:
+* https://angular.io/guide/forms
+
+Reactive Forms:
+* https://angular.io/guide/reactive-forms
 
 
 #### Extra information and podcasts
