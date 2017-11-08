@@ -34,6 +34,8 @@ Template Driven forms:
 Reactive Forms:
 * https://angular.io/guide/reactive-forms
 
+NgRx enums:
+* https://github.com/LMFinney/ngrx-enums
 
 #### Extra information and podcasts
 
