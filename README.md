@@ -19,3 +19,6 @@ Event emitters in Angular:
 
 Angular HttpClient:
 * https://angular.io/guide/http
+
+ReactiveX observables:
+http://reactivex.io/documentation/observable.html
